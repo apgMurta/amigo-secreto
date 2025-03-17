@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-![Imagem de Capa](URL-da-imagem)
+![Imagem de Capa](amigosecreto.png)
 
 ## Índice
 1. [Título e Imagem de Capa](#título-e-imagem-de-capa)
